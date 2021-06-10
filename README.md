@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @GaneshRajegore
-- 👀 I’m interested in C, C++, Linux
-- 🌱 I’m currently learning C++11, C++14
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach out to me ganeshrajellc@gamil.com
+Hi, I'm Ganesh. I love to develop and code. I'm a full stack developer always willing to undertake new projects and hop on to new oppurtunities. My experience largely lies in C, C++ and Linux. I have experience on SVN and Git.
 
-<!---
-GaneshRajegore/GaneshRajegore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hope you find something you like
